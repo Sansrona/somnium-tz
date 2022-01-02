@@ -1,0 +1,53 @@
+{
+    "books": [
+      {
+        "id": 0,
+        "imageUrl": "https://cdn1.ozone.ru/s3/multimedia-t/wc1200/6018798005.jpg",
+        "name": "Гарри Поттер и философский камень",
+        "price": 10000,
+        "rating": 4
+      },
+      {
+        "id": 1,
+        "imageUrl": "https://cdn1.ozone.ru/s3/multimedia-0/wc1200/6173645388.jpg",
+        "name": "Гарри Поттер и Тайная комната",
+        "price": 10000,
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://cdn1.ozone.ru/s3/multimedia-z/wc1200/6157959431.jpg",
+        "name": "Гарри Поттер и узник Азкабана",
+        "price": 10000,
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://cdn1.ozone.ru/s3/multimedia-e/wc1200/6151147814.jpg",
+        "name": "Гарри Поттер и Кубок Огня",
+        "price": 10000,
+        "rating": 2
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://cdn1.ozone.ru/s3/multimedia-d/wc1200/6151146373.jpg",
+        "name": "Гарри Поттер и Орден Феникса",
+        "price": 10000,
+        "rating": 3
+      },
+      {
+        "id": 5,
+        "imageUrl": "https://cdn1.ozone.ru/s3/multimedia-a/wc1200/6157164598.jpg",
+        "name": "Гарри Поттер и Принц-полукровка",
+        "price": 10000,
+        "rating": 2
+      },
+      {
+        "id": 6,
+        "imageUrl": "https://cdn1.ozone.ru/s3/multimedia-j/wc1200/6157164427.jpg",
+        "name": "Гарри Поттер и Дары Смерти",
+        "price": 10000,
+        "rating": 5
+      }
+    ]
+  }
