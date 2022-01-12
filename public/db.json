@@ -2,52 +2,58 @@
     "books": [
       {
         "id": 0,
-        "imageUrl": "https://cdn1.ozone.ru/s3/multimedia-t/wc1200/6018798005.jpg",
+        "imageUrl": "https://i1.mybook.io/p/x378/book_covers/04/8a/048aea6b-4a5a-4185-9409-38df9636f100.jpg",
         "name": "Гарри Поттер и философский камень",
         "price": 10000,
-        "rating": 4
+        "rating": 2
       },
       {
         "id": 1,
-        "imageUrl": "https://cdn1.ozone.ru/s3/multimedia-0/wc1200/6173645388.jpg",
+        "imageUrl": "https://i1.mybook.io/p/x378/book_covers/61/bd/61bd328d-a3a6-4d0a-9643-e4f612b65e24.jpg",
         "name": "Гарри Поттер и Тайная комната",
         "price": 10000,
-        "rating": 5
+        "rating": 4
+
       },
       {
         "id": 2,
-        "imageUrl": "https://cdn1.ozone.ru/s3/multimedia-z/wc1200/6157959431.jpg",
+        "imageUrl": "https://i3.mybook.io/p/x378/book_covers/ed/bc/edbc901f-b3fd-44ba-8719-d0990a48d4c1.jpg",
         "name": "Гарри Поттер и узник Азкабана",
         "price": 10000,
-        "rating": 4
+        "rating": 0
+
       },
       {
         "id": 3,
-        "imageUrl": "https://cdn1.ozone.ru/s3/multimedia-e/wc1200/6151147814.jpg",
+        "imageUrl": "https://i3.mybook.io/p/x378/book_covers/17/f4/17f4ae4e-4af1-442b-a51d-e22ba38916fa.jpg",
         "name": "Гарри Поттер и Кубок Огня",
         "price": 10000,
-        "rating": 2
+        "rating": 5
+
       },
       {
         "id": 4,
-        "imageUrl": "https://cdn1.ozone.ru/s3/multimedia-d/wc1200/6151146373.jpg",
+        "imageUrl": "https://i3.mybook.io/p/x378/book_covers/44/6b/446bc17d-4ad9-49f4-aa39-e2e01061bd58.jpg",
         "name": "Гарри Поттер и Орден Феникса",
         "price": 10000,
-        "rating": 3
+        "rating": 8
+
       },
       {
         "id": 5,
-        "imageUrl": "https://cdn1.ozone.ru/s3/multimedia-a/wc1200/6157164598.jpg",
+        "imageUrl": "https://i2.mybook.io/p/x378/book_covers/5c/d5/5cd56e82-6019-44a0-8c61-b3ac9b3410dc.jpg",
         "name": "Гарри Поттер и Принц-полукровка",
         "price": 10000,
-        "rating": 2
+        "rating": 3
+
       },
       {
         "id": 6,
-        "imageUrl": "https://cdn1.ozone.ru/s3/multimedia-j/wc1200/6157164427.jpg",
+        "imageUrl": "https://i1.mybook.io/p/x378/book_covers/65/66/65667170-8b3a-47ab-b0c7-741d38861649.jpg",
         "name": "Гарри Поттер и Дары Смерти",
         "price": 10000,
-        "rating": 5
+        "rating": 1
+
       }
     ]
   }

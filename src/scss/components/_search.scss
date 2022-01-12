@@ -1,0 +1,40 @@
+@import "../variables";
+
+.search {
+    display: flex;
+    $self: &;
+    &--input {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        align-content:center ;
+        align-items: center;
+        border: 1px solid black;
+        border-radius: 10px;
+        height: 40px;
+        width: 320px;
+        font-size: 24px;
+        padding: 10px 5px;
+
+        &-closeIcon {
+            width: 20px;
+            height: 20px;
+            cursor: pointer;
+        }
+        input {
+            padding-left: 5px;
+            border: none;
+            width: 100%;
+        }
+    }
+    &--button {
+        cursor: pointer;
+        border-radius: 10px;
+        background: transparent;
+        margin-left: 5px;
+        padding: 5px;
+        &-icon {
+            width: 20px;
+            height: 20px;
+        }
+    }
+}
